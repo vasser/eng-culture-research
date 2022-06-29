@@ -15,11 +15,17 @@ Most engineers who are happy at their job happen to work at a company with a gre
 
 it is extremely hard and crucial for fast growing companies to retain EC and make it thrive. New people join company with their vision and impact. It is always good, but without some level of accountability, control, and governance from leadership this can create chaos. Hence, the goal is to define EC with enough room of freedom on one hand and clear boundaries.
 
-## What we should address
+## What should we address
 
-* EC should be aligned with company’s values
+* EC should be aligned with the company’s values
 * EC is not carved in the stone for all engineers and teams. Each tenant adopts what suits better for them
-* Well balanced EC provides freedom of choice and limits to follow the path company takes
+* Well-balanced EC provides freedom of choice and limits following the path company takes
+
+Giving enough freedom to engineers will bring the same results as if they kick the can while following the company's path. Harder they kick the more unpredictable can's trajectory will be, so they won't follow the path properly.
+
+![Path of ](./media/The-path-of-a-game-of-kick-the-canhcigbf.webp)
+
+Credits to the idea and image go to [Swizec](https://swizec.com/blog/writing-software-is-like-kicking-a-can/)
 
 ## Ideas and insights
 
