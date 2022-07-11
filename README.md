@@ -27,6 +27,33 @@ Giving enough freedom to engineers will bring the same results as if they kick t
 
 Credits to the idea and image go to [Swizec](https://swizec.com/blog/writing-software-is-like-kicking-a-can/)
 
+## EC components
+
+This is not the full list just something I took from the top of my head.
+
+- agility
+- automation
+- autonomy
+- coaching
+- code reviews
+- collaboration
+- common goals
+- continuous delivery
+- egoless development
+- encouraging
+- impact
+- innovations
+- iterations
+- learning
+- mentoring
+- pairing
+- psychological safety
+- shared ownership
+- teamwork
+- transparency
+- welcoming atmosphere
+- XP
+
 ## Ideas and insights
 
 - Participate in company's internal podcast about the process we are coming through
