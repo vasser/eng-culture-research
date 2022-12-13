@@ -54,6 +54,26 @@ This is not the full list just something I took from the top of my head.
 - welcoming atmosphere
 - XP
 
+## Identifying existing culture
+
+This entire section is taken from "Accelerate", [Chapter 3](https://www.oreilly.com/library/view/accelerate/9781457191435/14-ch3.xhtml) by Nicole Forsgren, Jez Humble, Gene Kim.
+
+Within organizational culture there are several ways to define and model "culture". Organizational culture can exist at three levels in organizations: basic assumptions, values, and artifacts.
+
+At the first level, basic assumptions are formed over time as members of a group or organization make sense of relationships, events, and activities. These interpretations are the least "visible" of the levels—and are the things that we just know, and may find difficult to articulate, after we have been long enough in a team.
+
+- This is something we should try to identify and highlight first. Having those, we can draw a baseline and use it in our future steps.
+- Analyzing output we can group components, cluster them
+
+The second level of organizational culture are values. Values provide a lens through which group members view and interpret the relationships, events, and activities around them. Values also influence group interactions and activities by establishing social norms, which shape the actions of group members and provide contextual rules. These are quite often the "culture" we think of when we talk about the culture of a team and an organization.
+
+- Do we have values? What are those, put them together and see how they correlate to the previous topic
+
+The third level of organizational culture is the most visible and can be observed in artifacts. These artifacts can include written mission statements or creeds, technology, formal procedures, or even heroes and rituals.
+
+- It is one of the things we are going to do - document engineering culture
+
+
 ## Ideas and insights
 
 - Participate in company's internal podcast about the process we are coming through
